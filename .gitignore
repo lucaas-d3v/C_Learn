@@ -14,9 +14,11 @@ obj/
 *.log
 *.tmp
 *.swp
+*.json
 
 # VSCode / VSCodium
-.vscode/
+
+C_Learn/.vscode/*
 .vscode-test/
 
 # Sistema
