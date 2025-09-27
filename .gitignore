@@ -1,0 +1,24 @@
+# Binários compilados
+*.o
+*.out
+*.exe
+*.a
+*.so
+
+# Diretórios de build
+/build/
+bin/
+obj/
+
+# Arquivos temporários
+*.log
+*.tmp
+*.swp
+
+# VSCode / VSCodium
+.vscode/
+.vscode-test/
+
+# Sistema
+.DS_Store
+Thumbs.db
